@@ -79,9 +79,9 @@ Empower individuals and organizations through data-driven solutions, lifelong le
 * **Training and Mentoring**: Training in Excel, Power BI, and SQL. Dedicated to helping others through mentoring, providing educational resources, guidance, and support.
 
 ## Connect with Me :mailbox:
-* :link: [LinkedIn](https://www.linkedin.com/in/edwigesongong/)
+* :link: [LinkedIn]()
 * :email: [Email](mailto:feulefacksongonge@gmail.com)
-* :twitter:
+* :twitter: [Twitter](https://x.com/Prettybelly4u)
 
 I'm looking forward to collaborating on projects that are related to my area of interest while also exploring others. Together we can do great things. Let's connect! :earth_africa:
 
