@@ -10,13 +10,13 @@
   <a href="https://www.linkedin.com/in/ayeosaeniola" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=403d39&logoColor=white&labelColor=0077B5&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/Prettybelly4u" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=Twitter&message=Follow&labelColor=1DA1F2&color=000000&logo=twitter&style=flat" height="25" />
-</a>
   </a>
   <a href="https://www.youtube.com/@ayeosaeniola4089" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=403d39&logoColor=white&labelColor=FF0000&style=flat" height="25" alt="youtube logo"  />
   </a>
+  <a href="https://x.com/Prettybelly4u" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=Twitter&message=Follow&labelColor=1DA1F2&color=000000&logo=twitter&style=flat" height="25" />
+</a>
   <a href="mailto:ayeosaeniola@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=403d39&logoColor=white&labelColor=D14836&style=flat" height="25" alt="gmail logo"  />
   </a>
