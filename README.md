@@ -1,25 +1,25 @@
-## Hi👋! I'm Ayeosa Eniola
+## Hi👋, I'm Ayeosa Eniola Rosemary
 
 ###
 
-<p align="left">| Data Analyst & Mentor @ ES Analysis | Empowering businesses with Actionable insights from data | STEM Educator</p>
+<p align="left">| Data Analyst | Fleets Tracking Analyst | Excel • SQL • Power BI | Empowering businesses with Actionable insights from data | </p>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/edwigesongong/" target="_blank">
+  <a href="https://www.linkedin.com/in/ayeosaeniola" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=403d39&logoColor=white&labelColor=0077B5&style=flat" height="25" alt="linkedin logo"  />
   </a>
   </a>
-  <a href="https://www.youtube.com/@esanalysis" target="_blank">
+  <a href="https://www.youtube.com/@ayeosaeniola4089" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=403d39&logoColor=white&labelColor=FF0000&style=flat" height="25" alt="youtube logo"  />
   </a>
-  <a href="mailto:contact@esanalysis.com" target="_blank">
+  <a href="mailto:ayeosaeniola@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=403d39&logoColor=white&labelColor=D14836&style=flat" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.esanalysis.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&label=ESAnalysis&color=403d39&logoColor=&labelColor=8ac926&style=flat" height="25"  />
-  </a>
+  <a href="https://x.com/Prettybelly4u" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&label=Follow&color=1DA1F2&logo=twitter&labelColor=000000&style=flat" height="25" />
+</a>
 </div>
 
 ###
@@ -81,7 +81,7 @@ Empower individuals and organizations through data-driven solutions, lifelong le
 ## Connect with Me :mailbox:
 * :link: [LinkedIn](https://www.linkedin.com/in/ayeosaeniola)
 * :email: [Email](mailto:ayeosaeniola@gmail.com)
-* :mag: [Twitter]()
+* :mag: [Twitter](https://x.com/Prettybelly4u)
 
 I'm looking forward to collaborating on projects that are related to my area of interest while also exploring others. Together we can do great things. Let's connect! :earth_africa:
 
