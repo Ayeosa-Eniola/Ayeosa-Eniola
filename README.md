@@ -80,8 +80,8 @@ Empower individuals and organizations through data-driven solutions, lifelong le
 
 ## Connect with Me :mailbox:
 * :link: [LinkedIn](https://www.linkedin.com/in/ayeosaeniola)
-* :email: [Email](mailto:feulefacksongonge@gmail.com)
-* 
+* :email: [Email](mailto:ayeosaeniola@gmail.com)
+* :mag: [Twitter]()
 
 I'm looking forward to collaborating on projects that are related to my area of interest while also exploring others. Together we can do great things. Let's connect! :earth_africa:
 
