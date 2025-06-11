@@ -60,8 +60,7 @@ Transform raw data into meaningful insights that empower businesses to make info
   * Attention to Detail
   * Empathy & Emotional Intelligence
 
-## Data Analytics Projects :books:
-* [SQL Projects](https://github.com/Songonge/SQL-Projects): In this repository, you will find projects completed in PostgreSQL, SQL Server, and MySQL.
+## Data Analytics Projects :books:                       
 * [Power BI Projects](https://github.com/Ayeosa-Eniola/Call-Center-Performance-Using-Power-bi): This repository hosts all projects completed in Power BI.
 * [Excel Projects](https://github.com/Ayeosa-Eniola/Superstore-Sales-Profitability-Excel): In this repository, you will find all projects completed in Microsoft Excel.
 
