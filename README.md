@@ -30,7 +30,7 @@
 ###
 
 ## Mission :dart:
-Empower individuals and organizations through data-driven solutions, lifelong learning, and purposeful action. I strive to create a meaningful impact by building systems that uplift communities and inspire future leaders. Through resilience, kindness, and innovation, I aim to live a fulfilled life and leave a legacy of growth, opportunity, and excellence.
+Transform raw data into meaningful insights that empower businesses to make informed, strategic decisions. I aim to simplify complex data, highlight what truly matters, and deliver solutions that drive growth, efficiency, and real-world impact—one dataset at a time. Through resilience, kindness, and innovation, I aim to live a fulfilled life and leave a legacy of growth, opportunity, and excellence.
 
 ## About Me :woman_technologist:
 
@@ -39,8 +39,6 @@ Empower individuals and organizations through data-driven solutions, lifelong le
   * Power BI 
   * Excel (Pivot Tables, Power Query, Charts, Power Pivot)
   * SQL (PostgreSQL, Microsoft SQL Server, SQLite, MySQL)
-  * Amazon QuickSight
-  * Looker Studio
   * Tableau
   * Python (for Data Analysis)
     
@@ -48,10 +46,10 @@ Empower individuals and organizations through data-driven solutions, lifelong le
   * Microsoft Office Suite
   * Canva
   * Google Workspace
+  * Video Conference (Zoom, Skype, Meet)
 
 * **Soft Skills**:  
   * Communication & Public Speaking
-  * Teaching & Mentorship
   * Leadership & Team Collaboration
   * Problem-Solving & Decision-making
   * Critical Thinking
@@ -69,14 +67,15 @@ Empower individuals and organizations through data-driven solutions, lifelong le
 
 ## Professional Goals :dart:
 * Using data analytics to solve real-world problems and supporting strategic decision-making in education, research, and business.
-* Empowering underrepresented communities through mentorship, training programs, and inclusive data-driven solutions.
+* To contribute to organizations by transforming data into actionable insights that improve operations, customer experience, and profitability.
+* To secure a remote data analyst role where I can add value, improve outcomes, and grow into a senior analytics position over time.
 * Building impactful tech solutions that bridge the gap between data, education, and social impact across global communities.
-* Leveraging my technical skills, leadership, and teamwork in facilitating decision-making for impactful solutions.
+* Leveraging my technical skills and teamwork in facilitating decision-making for impactful solutions.
 
 ## My Services :white_check_mark:
 * **Data Analysis**: Offers data analytics services such as data entry, data cleaning, analysis, visualization, and reporting to turn complex data into actionable insights.
 * **Dashboard Development**: Use data to design interactive dashboards to communicate insights.
-* **Training and Mentoring**: Training in Excel, Power BI, and SQL. Dedicated to helping others through mentoring, providing educational resources, guidance, and support.
+* **SQL Data Extraction & Analysis**: Writing efficient queries to extract and analyze data from relational databases.
 
 ## Connect with Me :mailbox:
 * :link: [LinkedIn](https://www.linkedin.com/in/ayeosaeniola)
